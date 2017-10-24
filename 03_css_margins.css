@@ -1,0 +1,21 @@
+body {
+	background-color: #f6bbf7;
+}
+
+#header-text {
+	color: whitesmoke;
+}
+#container {
+	background-color: blue;
+	display: inline-block;
+	width: 400px;
+	height: 400px;
+}
+
+#content {
+	background-color: green;
+	display: inline-block;
+	width: 320px;
+	height: 320px;
+	margin-left: 40px;
+}
