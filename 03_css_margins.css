@@ -7,9 +7,9 @@ body {
 }
 #container {
 	background-color: blue;
-	display: inline-block;
-	width: 400px;
-	height: 400px;
+	width: 1000px;
+	height: 1000px;
+	padding: 40px;
 }
 
 #content {
@@ -17,5 +17,28 @@ body {
 	display: inline-block;
 	width: 320px;
 	height: 320px;
-	margin-left: 40px;
+	margin: 40px;
+}
+#content2 {
+	background-color: black;
+	width: 320px;
+	height: 320px;
+	margin: 40px;
+}
+#content3 {
+	background-color: red;
+	width: 320px;
+	height: 320px;
+	margin-left: 500px;
+	margin-top: -750px;
+
+
+}
+#content4 {
+	background-color: yellow;
+	width: 320px;
+	height: 320px;
+	margin-left: 500px;
+	margin-top: 50px;
+
 }
