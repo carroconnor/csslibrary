@@ -1,7 +1,10 @@
-backgroundColor{
-	background-color: blue;
-}
+
 
 body{
-	background-color: magenta;
+	background-color: grey;
+}
+
+img{
+	height: 200px;
+	width: 300px;
 }
