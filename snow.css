@@ -72,3 +72,24 @@ body{
 	left: 50px;
 	margin-bottom: 100px;
 }
+#leftarm{
+	width: 10px;
+	height: 100px;
+	background-color: brown;
+}
+#finger1{
+	width: 8px;
+	height: 20px;
+	background-color: brown;
+}
+#finger2{
+	width: 8px;
+	height: 20px;
+	background-color: brown;
+	rotate: left;
+}
+#finger3{
+	width: 8px;
+	height: 20px;
+	background-color: brown;
+}
